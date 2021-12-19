@@ -6,12 +6,14 @@
 - ⚡ Apelido: Chirs.
 - 💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+
 <div align = "center">
   <a href="https://github.com/LyoDekken">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LyoDekken&show_icons=true&theme=green&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LyoDekken&layout=compact&langs_count=7&theme=green" />
-</div>
 <div style = "display: inline_block"> <br>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
   <img align = "center" alt = "Lyo-Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain .svg ">
   <img align = "center" alt = "Lyo-React" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original .svg ">
   <img align = "center" alt = "Lyo-HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg ">
@@ -37,7 +39,4 @@
     <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.gg/QevDJqCzaY"/>
   </a>
 </p>
- 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
- 
 </div>
