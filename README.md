@@ -8,7 +8,7 @@
 
 <div align = "center">
   <a href="https://github.com/LyoDekken">
-  <img align = "left" height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LyoDekken&show_icons=true&theme=green&include_all_commits=true&count_private=true" />
+  <img align = "left" min-width="400px" max-width="400px" width="400px height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LyoDekken&show_icons=true&theme=green&include_all_commits=true&count_private=true" />
 <div style = "display: inline_block"> <br>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
   <img align = "center" alt = "Lyo-Js" height = "30" width = "100" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black ">
