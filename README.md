@@ -1,9 +1,10 @@
 ### Eae, Tranquilo? 👋
 
-- 🔭 Atualmente: Estou expandindo meu Portfólio & Projetos (desempregado 😖)...
-- 🌱 Estudando: JS, PHP, HTML, CSS, GIT dentre vários outros...
+- 🌎  Atualmente: Estou expandindo meu Portfólio & Projetos (desempregado 😖)...
+- 🦄  Estudando: JS, PHP, HTML, CSS, GIT dentre vários outros...
 - 😄 Fun Fact: Leti Mi Relpi Iu..
 - ⚡ Apelido: Chirs.
+- 💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 
 <div align = "center">
   <a href="https://github.com/LyoDekken">
@@ -37,6 +38,6 @@
   </a>
 </p>
  
-  ! [Animação de cobra] (https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
  
 </div>
