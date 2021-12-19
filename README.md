@@ -6,9 +6,6 @@
 - ⚡ Apelido: Chirs.
 - 💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-
 <div align = "center">
   <a href="https://github.com/LyoDekken">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LyoDekken&show_icons=true&theme=green&include_all_commits=true&count_private=true" />
