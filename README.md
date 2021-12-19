@@ -16,13 +16,12 @@
   <img align = "center" alt = "Lyo-HTML" height = "40" width = "85" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align = "center" alt = "Lyo-CSS" height = "40" width = "85" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white ">
   <img align = "center" alt = "Lyo-Csharp" height = "40" width = "85" src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align = "center" alt = "Lyo-pic" height = "150" style = "border-radius: 50px;" src =
-       "https://pa1.narvii.com/6878/98997aad91ece57183e4c7eaf56a4d334693f4f8r1-435-235_hq.gif">
-</div>
   
   ##
  
 <div> 
+    <img align = "center" alt = "Lyo-pic" height = "150" style = "border-radius: 50px;" src =
+     "https://pa1.narvii.com/6878/98997aad91ece57183e4c7eaf56a4d334693f4f8r1-435-235_hq.gif">
 <p align="left">
   <a href="https://www.instagram.com/iuricode/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
