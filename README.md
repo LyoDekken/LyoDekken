@@ -6,7 +6,7 @@
 - ⚡ Apelido: Chirs.
 - 💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 
-![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
+-![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
 
 ## As Tecnologias que trabalho !!
 
