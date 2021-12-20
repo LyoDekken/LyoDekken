@@ -25,8 +25,8 @@
   "https://pa1.narvii.com/6878/98997aad91ece57183e4c7eaf56a4d334693f4f8r1-435-235_hq.gif">
 </div>
  
-<div align ="center"> 
  ## Minhas Redes
+<div align ="center"> 
   <p align="left">
   <a href="https://www.instagram.com/iuricode/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
