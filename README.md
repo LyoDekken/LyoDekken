@@ -11,10 +11,15 @@
 <div align = "left">
   
 [![HumbertoOliveira github stats](https://github-readme-stats.vercel.app/api?username=LyoDekken&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="250em" align="right" alt="Computador">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="180em" align="right" alt="Computador">
 </div>
 
-  ##
+<div align = "left">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpc03&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+ 
+ ##
+  
  
 <div> 
   <img align = "center" alt = "Lyo-pic" height = "150" style = "border-radius: 50px;" src =
@@ -26,7 +31,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/humbertohenrique/"/>
   </a>
   
   <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
