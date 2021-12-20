@@ -8,6 +8,9 @@
 
 <br><br><br>
 
+### Um pouquinho do que eu uso <->
+
+
 <div align = "left" >
   
 [![HumbertoOliveira github stats](https://github-readme-stats.vercel.app/api?username=LyoDekken&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
