@@ -6,9 +6,10 @@
 - ⚡ Apelido: Chirs.
 - 💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 
+
+
 <div style = "display: inline_block"> <br>
- <a href="https://github.com/LyoDekken">
-    <img align = "left" height = "180em" src = "https://github-readme-stats.vercel.app/api? username=LyoDekken&show_icons=true&theme=green&include_all_commits=true&count_private=true"/>
+  [![ARTHUR PC's github stats](https://github-readme-stats.vercel.app/api?  username=LyoDekken&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px"           align="right" alt="Computador">
 </div>
   ##
