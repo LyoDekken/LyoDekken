@@ -6,7 +6,7 @@
 - ⚡ Apelido: Chirs.
 - 💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 
-<br><br><br>
+<br>
 
 ### Um pouquinho do que eu uso <->
 
