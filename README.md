@@ -17,28 +17,26 @@
 
 </div>
  
- ##
-  
+ ## Minhas Redes
  
-<div align ="center"> 
+ <div align ="center"> 
   <img align = "right" alt = "Lyo-pic" height = "150" style = "border-radius: 50px;" src =
   "https://pa1.narvii.com/6878/98997aad91ece57183e4c7eaf56a4d334693f4f8r1-435-235_hq.gif">
 </div>
- 
- ## Minhas Redes
+
 <div align ="center"> 
-  <p align="left">
+<p align="left">
+    
   <a href="https://www.instagram.com/iuricode/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
-  </a>
-  
+  </a> 
   <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/humbertohenrique/"/>
   </a>
-  
   <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.gg/QevDJqCzaY"/>
   </a>
-  </p>
+  
+</p>
   
 </div>
