@@ -20,7 +20,8 @@
  ##
   
  
-<div> 
+<div align ="center"> 
+  
   <img align = "center" alt = "Lyo-pic" height = "150" style = "border-radius: 50px;" src =
   "https://pa1.narvii.com/6878/98997aad91ece57183e4c7eaf56a4d334693f4f8r1-435-235_hq.gif">
   
@@ -36,6 +37,6 @@
   <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.gg/QevDJqCzaY"/>
   </a>
-</p>
+  </p>
   
 </div>
