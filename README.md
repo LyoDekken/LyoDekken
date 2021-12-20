@@ -22,7 +22,7 @@
  
 <div align ="center"> 
   
-  <img align = "center" alt = "Lyo-pic" height = "150" style = "border-radius: 50px;" src =
+  <img align = "right" alt = "Lyo-pic" height = "150" style = "border-radius: 50px;" src =
   "https://pa1.narvii.com/6878/98997aad91ece57183e4c7eaf56a4d334693f4f8r1-435-235_hq.gif">
   
   <p align="left">
