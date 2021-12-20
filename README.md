@@ -6,7 +6,7 @@
 - ⚡ Apelido: Chirs.
 - 💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 
--![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
+![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
 
 ## As Tecnologias que trabalho !!
 
@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/-Spotify-1C1C1C?style=for-the-badge&logo=Spotify&logoColor=00FFFF&link=https://spotifygg/QevDJqCzaY"/>
   </a>
   
-  <a href="https://open.spotify.com/playlist/1Jtft0wZgV3pTuwrcLhyvo?si=0q7RcQuoT_es2o4racpnlw&utm_source=whatsapp" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/0/#inbox" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=00FFFF&link=https://gmail/QevDJqCzaY"/>
   </a>  
 
