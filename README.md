@@ -4,7 +4,7 @@
 - 🦄  Estudando: JS, PHP, HTML, CSS, GIT dentre vários outros...
 - 😄 Fun Fact: Leti Mi Relpi Iu..
 - ⚡ Apelido: Chirs.
-- 💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+- 💌 Se você tiver alguma dúvida, não hesite em me enviar uma mensagem.
 - ⬇️ Site do meu Portfólio Abaixo:
 
 ![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
