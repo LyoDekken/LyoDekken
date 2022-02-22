@@ -2,7 +2,6 @@
 
 - 🌎  Atualmente: Estou expandindo meu Portfólio & Projetos...
 - 🦄  Estudando: JS, PHP, HTML, CSS, GIT dentre vários outros...
-- 😄 Fun Fact: Leti Mi Relpi Iu..
 - ⚡ Apelido: Chirs.
 - 💌 Se você tiver alguma dúvida, não hesite em me enviar uma mensagem.
 - ⬇️ Site do meu Portfólio Abaixo:
