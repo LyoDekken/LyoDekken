@@ -12,7 +12,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/Node-006400?style=for-the-badge&logo=node.js&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <div align = "left" >
@@ -24,12 +24,13 @@
 
 </div>
  
- ## Minhas Redes
+ ## Onde Estudo & Minhas Redes 
  
  <div align ="center"> 
   <img align = "right" alt = "Lyo-pic" height = "150" style = "border-radius: 50px;" src =
   "https://pa1.narvii.com/6878/98997aad91ece57183e4c7eaf56a4d334693f4f8r1-435-235_hq.gif">
 </div>
+<img lign="center" style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://blueedtech.com.br/wp-content/themes/blue/dist/images/logo-blue-croped.gif" width="105">
 
 <div align ="center"> 
 <p align="left">
@@ -44,10 +45,12 @@
     <img src="https://img.shields.io/badge/-Spotify-1C1C1C?style=for-the-badge&logo=Spotify&logoColor=00FFFF&link=https://spotifygg/QevDJqCzaY"/>
   </a>
   
-  <a href="https://mail.google.com/mail/u/0/#inbox" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=00FFFF&link=https://gmail/QevDJqCzaY"/>
+  <a href="https://discord.com/" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://spotifygg/QevDJqCzaY"/>
   </a>  
 
 </p>
+  
+![Snake animation](https://github.com/joaofreitas-dev/joaofreitas-dev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
