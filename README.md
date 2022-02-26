@@ -6,8 +6,6 @@
 - 💌 Se você tiver alguma dúvida, não hesite em me enviar uma mensagem.
 - ⬇️ Site do meu Portfólio Abaixo:
 
-![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
-
 ## As Tecnologias que estou aprendendo !!
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
