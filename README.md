@@ -30,8 +30,14 @@
   <img align = "right" alt = "Lyo-pic" height = "150" style = "border-radius: 50px;" src =
   "https://pa1.narvii.com/6878/98997aad91ece57183e4c7eaf56a4d334693f4f8r1-435-235_hq.gif">
 </div>
-<img lign="center" style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://blueedtech.com.br/wp-content/themes/blue/dist/images/logo-blue-croped.gif" width="105">
 
+<div>
+  <img lign="center" style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://blueedtech.com.br/wp-content/themes/blue/dist/images/logo-blue-croped.gif" width="120">
+  <img lign="center" style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.untrm.edu.pe/images/usp-logo.jpg" width="98.5px">
+</div>
+
+<p>
+  
 <div align ="center"> 
 <p align="left">
     
