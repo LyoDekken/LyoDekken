@@ -1,5 +1,5 @@
 ### Eae, Tranquilo? 👋
-
+<!--https://github.com/Ileriayo/markdown-badges-->
 - 🌎  Atualmente: Estou expandindo meu Portfólio & Projetos...
 - 🦄  Estudando: JS, NodeJs, HTML, CSS, GIT dentre vários outros...
 - ⚡ Apelido: Chirs.
