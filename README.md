@@ -43,12 +43,6 @@
 <div align ="center"> 
 <p align="left">
     
-  <a href="https://www.instagram.com/oliiveira_hh/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/oliiveira_hh/"/>
-  </a> 
-  <a href="https://www.linkedin.com/in/humbertohenrique/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/humbertohenrique/"/>
-  </a>
   <a href="https://open.spotify.com/playlist/1Jtft0wZgV3pTuwrcLhyvo?si=0q7RcQuoT_es2o4racpnlw&utm_source=whatsapp" alt="Spotify">
     <img src="https://img.shields.io/badge/-Spotify-1C1C1C?style=for-the-badge&logo=Spotify&logoColor=00FFFF&link=https://spotifygg/QevDJqCzaY"/>
   </a>
