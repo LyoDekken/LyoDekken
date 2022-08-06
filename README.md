@@ -2,8 +2,6 @@
 
 ### Bem vindo!! :)
 
-
-## 💻 Um pouco de mim.
 <h3 align="left">Sou estudante(eternamente) de Desenvolvimento WEB - FullStack, através da BlueEdtech.</h3>
 <h4>E futuro Analista de Sistemas...</h4>
 
