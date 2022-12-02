@@ -52,5 +52,5 @@
 </p>
 
 <div>
-![Snake animation](https://github.com/LyoDekken/LyoDekken/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LyoDekken/cobrinha/blob/output/github-contribution-grid-snake.svg)
 </div>
