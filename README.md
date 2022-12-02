@@ -51,6 +51,4 @@
 <a href="https://www.linkedin.com/in/humbertohenrique/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
-<div>
-![Snake animation](https://github.com/LyoDekken/LyoDekken/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake gif](https://github.com/LyoDekken/LyoDekken/blob/output/github-contribution-grid-snake.svg)
