@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-0997E5?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-F68D11?style=for-the-badge&logo=aws&logoColor=black">
+<img src="https://img.shields.io/badge/AWS-F68D11?style=for-the-badge&logo=amazon&logoColor=black">
 </div>
 
 <hr>
