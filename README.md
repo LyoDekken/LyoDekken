@@ -1,3 +1,40 @@
+# Humberto Henrique
+
+[![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/humbertohenrique/)](https://www.linkedin.com/in/humbertohenrique/)
+
+### Junior Software Developer
+
+<img src="https://i.ibb.co/QJZdmpv/XOsX.gif" width="100" height="100" />
+
+## A little more about me: 😊
+
+```typescript
+class Humberto extends Human {
+  name: string;
+  nationality: string;
+  
+  constructor() {
+    super();
+    this.name = "Humberto Henrique";
+    this.nationality = "Brazilian";
+  }
+  
+  languages: Array<string> = [
+    "Portuguese",
+    "English"
+  ];
+  
+  technologies: {
+    JavaScript:     ["React.js", "React-Native", "Next.js"];
+    GoLang:         ["GinGonic"];
+    APIs:           ["REST", "NEST.JS"];
+    Events:         ["RabbitMQ", "Redis"];
+    Design:         ["Styled-Componentss", "Tailwind-css"];
+    CloudComputing: ["Aws", "Docker"];
+  };
+}
+```
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;I'm+Humberto+!+👋&center=true&size=30">
