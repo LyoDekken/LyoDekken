@@ -47,5 +47,7 @@ class Humberto extends Human {
 ## ...🐍
 
 <div align="center">
+  
   ![Snake animation](https://github.com/LyoDekken/LyoDekken/blob/output/github-contribution-grid-snake.svg)  
-</div>
+
+ </div>
