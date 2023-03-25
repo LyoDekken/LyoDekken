@@ -6,6 +6,15 @@
 
 <img src="https://i.ibb.co/QJZdmpv/XOsX.gif" width="100" height="100" />
 
+## My Commit's: 
+
+<div align="center">
+  <a href="https://github.com/LyoDekken">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyoDekken&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyoDekken&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 ## A little more about me: 😊
 
 ```typescript
@@ -35,16 +44,8 @@ class Humberto extends Human {
 }
 ```
 
+## ...🐍
 
 <div align="center">
-  <a href="https://github.com/LyoDekken">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyoDekken&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyoDekken&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
-<div align="center">
-
-  ![Snake animation](https://github.com/LyoDekken/LyoDekken/blob/output/github-contribution-grid-snake.svg)
-  
+  ![Snake animation](https://github.com/LyoDekken/LyoDekken/blob/output/github-contribution-grid-snake.svg)  
 </div>
