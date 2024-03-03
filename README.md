@@ -1,4 +1,4 @@
-# Humberto Henrique <img src="https://komarev.com/ghpvc/?username=LyoDekken&color=blue&label=Visualizações+do+perfil&style=flat-square" align="right"/>
+# Humberto Henrique
 
 [![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/humbertohenrique/)](https://www.linkedin.com/in/humbertohenrique/)
 
